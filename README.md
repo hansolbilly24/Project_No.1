@@ -1,1 +1,4 @@
-* [📑 발표 자료 바로보기 (PDF로 열기)](./Food%20Camera.pptx.pdf)
+# 📸 Food Camera 프로젝트
+
+## 📊 발표 자료
+* [👀 여기서 바로보기 (PDF)](./Food_Camera.pdf)
