@@ -1,0 +1,7 @@
+{
+  "name": "Food Camera (푸드카메라)",
+  "description": "Scan menus or food photos to get instant descriptions, ingredients, and allergy information using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
